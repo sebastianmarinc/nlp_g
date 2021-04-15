@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/Fully_Merged_Diss_Data_5-22-18.sav
+data/Diss Data.xlsx
+docs/**
+models/**
