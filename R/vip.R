@@ -6,7 +6,7 @@ library(vip)
 # import data
 ability = read_csv('../data/cog_ability_scores.csv')
 liwc = read_csv('../data/liwc_comp.csv')[,-1]
-g  = bind_cols(g  = ability$___ , liwc)
+#g  = bind_cols(g  = ability$___ , liwc)
 
 # variable importance
 set.seed(42)
